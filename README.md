@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mzml-gg/Api-creds.json-/main/IMG-20260320-WA0382.jpg" alt="Balis Banner" width="100%">
+  <img src="[https://files.catbox.moe/9ddbvo.png)" alt="Balis Banner" width="100%">
 </p>
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029Vb7AkG84inotOc8BXE1K">
+  <a href="">
     Click Here
   </a>
 </div>
